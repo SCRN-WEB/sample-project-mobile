@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "eguia-ross-simon-mobile-portfolio",
+    "slug": "eguia-ross-simon-mobile-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
